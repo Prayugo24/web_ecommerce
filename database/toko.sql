@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: May 27, 2017 at 01:56 PM
+-- Generation Time: Jun 11, 2017 at 09:11 PM
 -- Server version: 10.1.19-MariaDB
 -- PHP Version: 5.6.28
 
@@ -70,7 +70,7 @@ CREATE TABLE `customer` (
 INSERT INTO `customer` (`id_cus`, `nama_cus`, `email_cus`, `password_cus`) VALUES
 (1, 'Pak Zen', 'ziedanalfahrizy@gmail.com', '12345'),
 (9, 'fulan bin fulan', 'fulan@yahoo.co.id', 'fulan'),
-(10, 'Zaki', 'zakiucrut@gmail.com', 'ucrut'),
+(10, 'Zamarudin', 'zakiucrut@gmail.com', 'ucrut'),
 (11, 'zuzu', 'zuzu@gmail.com', 'zuzu'),
 (13, 'Muhammad Abdullah bin Sulaiman', 'alfa@gmail.com', 'alfa');
 
